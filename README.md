@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e77e12fd-f899-4fb2-8d7a-668fa20b9086)# LR6
+# LR6
 Лабораторная работа №6
 4316 Чылдырлы Э.А.
 
